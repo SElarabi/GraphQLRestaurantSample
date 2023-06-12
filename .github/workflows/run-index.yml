@@ -3,7 +3,7 @@ name: Run index.js
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   run:
